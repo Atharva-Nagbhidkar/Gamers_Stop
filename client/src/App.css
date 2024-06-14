@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-header nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.App-header a {
+  color: white;
+  text-decoration: none;
+}
+
+.banner {
+  background-image: url('link_to_banner_image');
+  background-size: cover;
+  padding: 50px;
+  color: black;
+}
+
+.featured-games {
+  padding: 20px;
+}
+
+.games-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.game-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.game-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.App-footer {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
