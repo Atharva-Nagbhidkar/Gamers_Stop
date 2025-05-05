@@ -45,10 +45,10 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/gamers-stop.git
+   git clone https://github.com/Atharva-Nagbhidkar/Gamers_Stop.git
 2. Navigate to the project directory:
    ```sh
-    cd gamers-stop
+    cd Gamers_Stop
 3. Install NPM packages for both frontend and backend:
    ```sh
     npm install
